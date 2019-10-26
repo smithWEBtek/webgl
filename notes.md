@@ -17,3 +17,6 @@ https://hacks.mozilla.org/2016/01/webgl-off-the-main-thread/
 
 https://open.spotify.com/go?uri=spotify%3Aplaylist%3A37i9dQZF1DWUNIrSzKgQbP&product=embed_v2
 https://open.spotify.com/playlist/37i9dQZF1DX5Ozry5U6G0d?si=0iXNIbFVSNy0Mr5Y9V1zPw
+
+
+Heads up: Check these out https://developer.mozilla.org/en-US/docs/Web/API/WebGL_API/WebGL_best_practices
